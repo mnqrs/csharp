@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media", "..\Media\Media.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalarioLiquido", "..\SalarioLiquido\SalarioLiquido.csproj", "{1DD46A66-C405-46A0-8D3A-46EA98A8DDDF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculo", "..\Calculo\Calculo.csproj", "{D5A6D489-8E2B-4B6A-99FE-32D832FD150F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{1DD46A66-C405-46A0-8D3A-46EA98A8DDDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DD46A66-C405-46A0-8D3A-46EA98A8DDDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DD46A66-C405-46A0-8D3A-46EA98A8DDDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5A6D489-8E2B-4B6A-99FE-32D832FD150F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A6D489-8E2B-4B6A-99FE-32D832FD150F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A6D489-8E2B-4B6A-99FE-32D832FD150F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A6D489-8E2B-4B6A-99FE-32D832FD150F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
