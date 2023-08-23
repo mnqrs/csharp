@@ -1,0 +1,14 @@
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\SalarioLiquido\bin\Debug\net7.0\SalarioLiquido.exe
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\SalarioLiquido\bin\Debug\net7.0\SalarioLiquido.deps.json
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\SalarioLiquido\bin\Debug\net7.0\SalarioLiquido.runtimeconfig.json
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\SalarioLiquido\bin\Debug\net7.0\SalarioLiquido.dll
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\SalarioLiquido\bin\Debug\net7.0\SalarioLiquido.pdb
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\SalarioLiquido\obj\Debug\net7.0\SalarioLiquido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\SalarioLiquido\obj\Debug\net7.0\SalarioLiquido.AssemblyInfoInputs.cache
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\SalarioLiquido\obj\Debug\net7.0\SalarioLiquido.AssemblyInfo.cs
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\SalarioLiquido\obj\Debug\net7.0\SalarioLiquido.csproj.CoreCompileInputs.cache
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\SalarioLiquido\obj\Debug\net7.0\SalarioLiquido.dll
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\SalarioLiquido\obj\Debug\net7.0\refint\SalarioLiquido.dll
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\SalarioLiquido\obj\Debug\net7.0\SalarioLiquido.pdb
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\SalarioLiquido\obj\Debug\net7.0\SalarioLiquido.genruntimeconfig.cache
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\SalarioLiquido\obj\Debug\net7.0\ref\SalarioLiquido.dll

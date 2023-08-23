@@ -1,0 +1,14 @@
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\Media\bin\Debug\net7.0\Media.exe
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\Media\bin\Debug\net7.0\Media.deps.json
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\Media\bin\Debug\net7.0\Media.runtimeconfig.json
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\Media\bin\Debug\net7.0\Media.dll
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\Media\bin\Debug\net7.0\Media.pdb
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\Media\obj\Debug\net7.0\Media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\Media\obj\Debug\net7.0\Media.AssemblyInfoInputs.cache
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\Media\obj\Debug\net7.0\Media.AssemblyInfo.cs
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\Media\obj\Debug\net7.0\Media.csproj.CoreCompileInputs.cache
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\Media\obj\Debug\net7.0\Media.dll
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\Media\obj\Debug\net7.0\refint\Media.dll
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\Media\obj\Debug\net7.0\Media.pdb
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\Media\obj\Debug\net7.0\Media.genruntimeconfig.cache
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\Media\obj\Debug\net7.0\ref\Media.dll

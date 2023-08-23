@@ -1,0 +1,14 @@
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\Salário\obj\Debug\net7.0\Salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\Salário\obj\Debug\net7.0\Salario.AssemblyInfoInputs.cache
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\Salário\obj\Debug\net7.0\Salario.AssemblyInfo.cs
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\Salário\obj\Debug\net7.0\Salario.csproj.CoreCompileInputs.cache
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\Salário\bin\Debug\net7.0\Salario.exe
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\Salário\bin\Debug\net7.0\Salario.deps.json
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\Salário\bin\Debug\net7.0\Salario.runtimeconfig.json
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\Salário\bin\Debug\net7.0\Salario.dll
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\Salário\bin\Debug\net7.0\Salario.pdb
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\Salário\obj\Debug\net7.0\Salario.dll
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\Salário\obj\Debug\net7.0\refint\Salario.dll
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\Salário\obj\Debug\net7.0\Salario.pdb
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\Salário\obj\Debug\net7.0\Salario.genruntimeconfig.cache
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula02\Salário\obj\Debug\net7.0\ref\Salario.dll
