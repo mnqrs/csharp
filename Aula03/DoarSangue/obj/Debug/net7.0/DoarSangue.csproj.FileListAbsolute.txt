@@ -1,0 +1,14 @@
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\DoarSangue\bin\Debug\net7.0\DoarSangue.exe
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\DoarSangue\bin\Debug\net7.0\DoarSangue.deps.json
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\DoarSangue\bin\Debug\net7.0\DoarSangue.runtimeconfig.json
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\DoarSangue\bin\Debug\net7.0\DoarSangue.dll
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\DoarSangue\bin\Debug\net7.0\DoarSangue.pdb
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\DoarSangue\obj\Debug\net7.0\DoarSangue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\DoarSangue\obj\Debug\net7.0\DoarSangue.AssemblyInfoInputs.cache
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\DoarSangue\obj\Debug\net7.0\DoarSangue.AssemblyInfo.cs
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\DoarSangue\obj\Debug\net7.0\DoarSangue.csproj.CoreCompileInputs.cache
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\DoarSangue\obj\Debug\net7.0\DoarSangue.dll
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\DoarSangue\obj\Debug\net7.0\refint\DoarSangue.dll
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\DoarSangue\obj\Debug\net7.0\DoarSangue.pdb
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\DoarSangue\obj\Debug\net7.0\DoarSangue.genruntimeconfig.cache
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\DoarSangue\obj\Debug\net7.0\ref\DoarSangue.dll
