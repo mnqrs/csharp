@@ -40,6 +40,10 @@
                 case 4:
                     resultado = num1 /num2;
                     break;
+
+                default:
+                    Console.WriteLine("Operação Inválida :(");
+                    break;
             }
 
             Console.WriteLine($"O resultado é: {resultado}");   
