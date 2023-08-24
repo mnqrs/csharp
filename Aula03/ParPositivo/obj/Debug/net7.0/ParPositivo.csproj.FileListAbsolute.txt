@@ -1,0 +1,14 @@
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\ParPositivo\obj\Debug\net7.0\ParPositivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\ParPositivo\obj\Debug\net7.0\ParPositivo.AssemblyInfoInputs.cache
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\ParPositivo\obj\Debug\net7.0\ParPositivo.AssemblyInfo.cs
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\ParPositivo\obj\Debug\net7.0\ParPositivo.csproj.CoreCompileInputs.cache
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\ParPositivo\bin\Debug\net7.0\ParPositivo.exe
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\ParPositivo\bin\Debug\net7.0\ParPositivo.deps.json
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\ParPositivo\bin\Debug\net7.0\ParPositivo.runtimeconfig.json
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\ParPositivo\bin\Debug\net7.0\ParPositivo.dll
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\ParPositivo\bin\Debug\net7.0\ParPositivo.pdb
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\ParPositivo\obj\Debug\net7.0\ParPositivo.dll
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\ParPositivo\obj\Debug\net7.0\refint\ParPositivo.dll
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\ParPositivo\obj\Debug\net7.0\ParPositivo.pdb
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\ParPositivo\obj\Debug\net7.0\ParPositivo.genruntimeconfig.cache
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\ParPositivo\obj\Debug\net7.0\ref\ParPositivo.dll
