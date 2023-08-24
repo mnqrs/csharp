@@ -1,0 +1,14 @@
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\Switch02\bin\Debug\net7.0\Switch02.exe
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\Switch02\bin\Debug\net7.0\Switch02.deps.json
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\Switch02\bin\Debug\net7.0\Switch02.runtimeconfig.json
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\Switch02\bin\Debug\net7.0\Switch02.dll
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\Switch02\bin\Debug\net7.0\Switch02.pdb
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\Switch02\obj\Debug\net7.0\Switch02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\Switch02\obj\Debug\net7.0\Switch02.AssemblyInfoInputs.cache
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\Switch02\obj\Debug\net7.0\Switch02.AssemblyInfo.cs
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\Switch02\obj\Debug\net7.0\Switch02.csproj.CoreCompileInputs.cache
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\Switch02\obj\Debug\net7.0\Switch02.dll
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\Switch02\obj\Debug\net7.0\refint\Switch02.dll
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\Switch02\obj\Debug\net7.0\Switch02.pdb
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\Switch02\obj\Debug\net7.0\Switch02.genruntimeconfig.cache
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula03\Switch02\obj\Debug\net7.0\ref\Switch02.dll
