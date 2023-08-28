@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrizes", "..\Matrizes\Mat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExVetores01", "..\ExVetores01\ExVetores01.csproj", "{70EEC6FF-BB74-4286-B516-8DE4043F5DE6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExVetores02", "..\ExVetores02\ExVetores02.csproj", "{486260A0-CA07-43AB-A7E2-A4EBD8ADF643}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{70EEC6FF-BB74-4286-B516-8DE4043F5DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70EEC6FF-BB74-4286-B516-8DE4043F5DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70EEC6FF-BB74-4286-B516-8DE4043F5DE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{486260A0-CA07-43AB-A7E2-A4EBD8ADF643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{486260A0-CA07-43AB-A7E2-A4EBD8ADF643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{486260A0-CA07-43AB-A7E2-A4EBD8ADF643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{486260A0-CA07-43AB-A7E2-A4EBD8ADF643}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
