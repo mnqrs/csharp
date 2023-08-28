@@ -29,7 +29,7 @@
                 Console.WriteLine($"{nome} está apte a doar sangue!");
             }
 
-            if (idade <= 17)
+            if (idade <= 17 && idade > 69 ||nao == false)
             {
                 Console.WriteLine($"{nome} não está apte a doar sangue!");
             }

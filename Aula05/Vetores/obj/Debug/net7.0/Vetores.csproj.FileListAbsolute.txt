@@ -1,0 +1,14 @@
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula05\Vetores\obj\Debug\net7.0\Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula05\Vetores\obj\Debug\net7.0\Vetores.AssemblyInfoInputs.cache
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula05\Vetores\obj\Debug\net7.0\Vetores.AssemblyInfo.cs
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula05\Vetores\obj\Debug\net7.0\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula05\Vetores\bin\Debug\net7.0\Vetores.exe
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula05\Vetores\bin\Debug\net7.0\Vetores.deps.json
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula05\Vetores\bin\Debug\net7.0\Vetores.runtimeconfig.json
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula05\Vetores\bin\Debug\net7.0\Vetores.dll
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula05\Vetores\bin\Debug\net7.0\Vetores.pdb
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula05\Vetores\obj\Debug\net7.0\Vetores.dll
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula05\Vetores\obj\Debug\net7.0\refint\Vetores.dll
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula05\Vetores\obj\Debug\net7.0\Vetores.pdb
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula05\Vetores\obj\Debug\net7.0\Vetores.genruntimeconfig.cache
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula05\Vetores\obj\Debug\net7.0\ref\Vetores.dll

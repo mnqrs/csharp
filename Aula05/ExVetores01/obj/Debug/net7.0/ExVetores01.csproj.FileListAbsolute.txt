@@ -1,0 +1,14 @@
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula05\ExVetores01\bin\Debug\net7.0\ExVetores01.exe
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula05\ExVetores01\bin\Debug\net7.0\ExVetores01.deps.json
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula05\ExVetores01\bin\Debug\net7.0\ExVetores01.runtimeconfig.json
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula05\ExVetores01\bin\Debug\net7.0\ExVetores01.dll
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula05\ExVetores01\bin\Debug\net7.0\ExVetores01.pdb
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula05\ExVetores01\obj\Debug\net7.0\ExVetores01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula05\ExVetores01\obj\Debug\net7.0\ExVetores01.AssemblyInfoInputs.cache
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula05\ExVetores01\obj\Debug\net7.0\ExVetores01.AssemblyInfo.cs
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula05\ExVetores01\obj\Debug\net7.0\ExVetores01.csproj.CoreCompileInputs.cache
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula05\ExVetores01\obj\Debug\net7.0\ExVetores01.dll
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula05\ExVetores01\obj\Debug\net7.0\refint\ExVetores01.dll
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula05\ExVetores01\obj\Debug\net7.0\ExVetores01.pdb
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula05\ExVetores01\obj\Debug\net7.0\ExVetores01.genruntimeconfig.cache
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula05\ExVetores01\obj\Debug\net7.0\ref\ExVetores01.dll
