@@ -14,8 +14,15 @@
             }
             Console.WriteLine("Digite a posição que deseja encontrar: ");
             posicao = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("A posição é:" + Array.IndexOf(vetor,posicao));
 
+            if (posicao >= 11)
+            {
+                Console.WriteLine("Posição não encontrada :(");
+            }
+            else
+            {
+                Console.WriteLine("A posição é:" + Array.IndexOf(vetor, posicao));
+            }
         }
     }
 }
