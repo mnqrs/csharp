@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExVetores01", "..\ExVetores
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExVetores02", "..\ExVetores02\ExVetores02.csproj", "{486260A0-CA07-43AB-A7E2-A4EBD8ADF643}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExMatriz01", "..\ExMatriz01\ExMatriz01.csproj", "{BA917FE2-EB29-4583-A5FB-E2CFA8F2D059}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{486260A0-CA07-43AB-A7E2-A4EBD8ADF643}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{486260A0-CA07-43AB-A7E2-A4EBD8ADF643}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{486260A0-CA07-43AB-A7E2-A4EBD8ADF643}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA917FE2-EB29-4583-A5FB-E2CFA8F2D059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA917FE2-EB29-4583-A5FB-E2CFA8F2D059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA917FE2-EB29-4583-A5FB-E2CFA8F2D059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA917FE2-EB29-4583-A5FB-E2CFA8F2D059}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
