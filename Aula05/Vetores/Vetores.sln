@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExVetores02", "..\ExVetores
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExMatriz01", "..\ExMatriz01\ExMatriz01.csproj", "{BA917FE2-EB29-4583-A5FB-E2CFA8F2D059}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExMatriz02", "..\ExMatriz02\ExMatriz02.csproj", "{C3B54BAF-7682-4558-A2F5-387855C94E8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{BA917FE2-EB29-4583-A5FB-E2CFA8F2D059}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA917FE2-EB29-4583-A5FB-E2CFA8F2D059}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA917FE2-EB29-4583-A5FB-E2CFA8F2D059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3B54BAF-7682-4558-A2F5-387855C94E8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3B54BAF-7682-4558-A2F5-387855C94E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3B54BAF-7682-4558-A2F5-387855C94E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3B54BAF-7682-4558-A2F5-387855C94E8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

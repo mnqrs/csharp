@@ -1,0 +1,14 @@
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula06\ExCollections02\bin\Debug\net7.0\ExCollections02.exe
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula06\ExCollections02\bin\Debug\net7.0\ExCollections02.deps.json
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula06\ExCollections02\bin\Debug\net7.0\ExCollections02.runtimeconfig.json
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula06\ExCollections02\bin\Debug\net7.0\ExCollections02.dll
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula06\ExCollections02\bin\Debug\net7.0\ExCollections02.pdb
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula06\ExCollections02\obj\Debug\net7.0\ExCollections02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula06\ExCollections02\obj\Debug\net7.0\ExCollections02.AssemblyInfoInputs.cache
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula06\ExCollections02\obj\Debug\net7.0\ExCollections02.AssemblyInfo.cs
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula06\ExCollections02\obj\Debug\net7.0\ExCollections02.csproj.CoreCompileInputs.cache
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula06\ExCollections02\obj\Debug\net7.0\ExCollections02.dll
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula06\ExCollections02\obj\Debug\net7.0\refint\ExCollections02.dll
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula06\ExCollections02\obj\Debug\net7.0\ExCollections02.pdb
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula06\ExCollections02\obj\Debug\net7.0\ExCollections02.genruntimeconfig.cache
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula06\ExCollections02\obj\Debug\net7.0\ref\ExCollections02.dll

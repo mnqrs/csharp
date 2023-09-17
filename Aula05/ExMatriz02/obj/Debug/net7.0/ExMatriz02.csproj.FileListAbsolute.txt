@@ -1,0 +1,4 @@
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula05\ExMatriz02\obj\Debug\net7.0\ExMatriz02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula05\ExMatriz02\obj\Debug\net7.0\ExMatriz02.AssemblyInfoInputs.cache
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula05\ExMatriz02\obj\Debug\net7.0\ExMatriz02.AssemblyInfo.cs
+C:\Users\Monique\OneDrive\Área de Trabalho\csharp\Aula05\ExMatriz02\obj\Debug\net7.0\ExMatriz02.csproj.CoreCompileInputs.cache
